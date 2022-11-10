@@ -1,4 +1,4 @@
-# This will be the readme where we will put the following information:
+# Project Information:
 - Team name: **need a team name**
 - Team members and their email addresses:
   - Michael Bartlett: [mab650@pitt.edu](mailto:mab650@pitt.edu)
