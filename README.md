@@ -1,5 +1,16 @@
 # This will be the readme where we will put the following information:
-- Team name
-- Team members and their email addresses
-- Description and links to the datasets used
+- Team name: **need a team name**
+- Team members and their email addresses:
+  - Michael Bartlett: [mab650@pitt.edu](mailto:mab650@pitt.edu)
+  - Ethan Shilling: [ess102@pitt.edu](mailto:ess102@pitt.edu)
+  - Ethan Zhao: [etz2@pitt.edu](mailto:etz2@pitt.edu)
+- Description and links to the datasets used:
+  - Pittsburgh Neighborhoods: [https://data.wprdc.org/dataset/neighborhoods2](https://data.wprdc.org/dataset/neighborhoods2)
+    - General data about the 90 Pittsburgh neighborhoods that is used in conjunction with our other datasets.
+  - Pittsburgh Reional Transit Transit Routes: [https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops](https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops)
+    - Used to evaluate the availability of public transit in neighborhoods
+  - City of Pittsburgh Traffic Count: [https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh)
+    - Used to evaluate high traffic neighborhoods
+  - **list other datasets below**
 - A one sentence overview of your repository, meant for someone who is not familiar with the project
+  - **do this once project is done**
