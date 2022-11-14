@@ -11,6 +11,8 @@
     - Used to evaluate the availability of public transit in neighborhoods
   - City of Pittsburgh Traffic Count: [https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh)
     - Used to evaluate high traffic neighborhoods
+    - Bike Route Map: [https://data.wprdc.org/dataset/shape-files-for-bikepgh-s-pittsburgh-bike-map](https://data.wprdc.org/dataset/shape-files-for-bikepgh-s-pittsburgh-bike-map)
+    - Used to evaluate the availability of bike routes in neighborhoods
   - **list other datasets below**
 - A one sentence overview of your repository, meant for someone who is not familiar with the project
   - **do this once project is done**
