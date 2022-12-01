@@ -9,10 +9,11 @@
     - General data about the 90 Pittsburgh neighborhoods that is used in conjunction with our other datasets.
   - Pittsburgh Reional Transit Transit Routes: [https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops](https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops)
     - Used to evaluate the availability of public transit in neighborhoods
-- City of Pittsburgh Traffic Count: [https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh)
+  - City of Pittsburgh Traffic Count: [https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh)
     - Used to evaluate high traffic neighborhoods
-    - Bike Route Map: [https://data.wprdc.org/dataset/shape-files-for-bikepgh-s-pittsburgh-bike-map](https://data.wprdc.org/dataset/shape-files-for-bikepgh-s-pittsburgh-bike-map)
+  - Bike Route Map: [https://data.wprdc.org/dataset/shape-files-for-bikepgh-s-pittsburgh-bike-map](https://data.wprdc.org/dataset/shape-files-for-bikepgh-s-pittsburgh-bike-map)
     - Used to evaluate the availability of bike routes in neighborhoods
-  - **list other datasets below**
+  - Sidewalk to Street Walkability Ratio: [https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio](https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio)
+    - Used to evaluate the walkability of each neighborhood
 - A one sentence overview of your repository, meant for someone who is not familiar with the project
   - **do this once project is done**
