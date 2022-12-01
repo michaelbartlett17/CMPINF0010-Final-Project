@@ -1,5 +1,5 @@
 # Project Information:
-- Team name: **need a team name**
+- Team name: The Traveling Team
 - Team members and their email addresses:
   - Michael Bartlett: [mab650@pitt.edu](mailto:mab650@pitt.edu)
   - Ethan Shilling: [ess102@pitt.edu](mailto:ess102@pitt.edu)
