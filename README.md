@@ -16,4 +16,4 @@
   - Sidewalk to Street Walkability Ratio: [https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio](https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio)
     - Used to evaluate the walkability of each neighborhood
 - A one sentence overview of your repository, meant for someone who is not familiar with the project
-  - **do this once project is done**
+  - The purpose of this repository is to analyze the best neighborhood for accessible transportation in Pittsburgh. In order to to come to a conclusion public transit routes, traffic counts, walkability ratio, and bike lane availability of each neighborhood were analyzed. 
