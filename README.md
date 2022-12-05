@@ -7,7 +7,8 @@
 - Description and links to the datasets used:
   - Pittsburgh Neighborhoods: [https://data.wprdc.org/dataset/neighborhoods2](https://data.wprdc.org/dataset/neighborhoods2)
     - General data about the 90 Pittsburgh neighborhoods that is used in conjunction with our other datasets.
-  - Pittsburgh Reional Transit Transit Routes: [https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops](https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops)
+  - Pittsburgh Regional Transit Transit Stops: [https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops](https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops)
+  and Pittsburgh Regional Transit Transit Routes: [https://data.wprdc.org/dataset/prt-current-transit-routes](https://data.wprdc.org/dataset/prt-current-transit-routes)
     - Used to evaluate the availability of public transit in neighborhoods
   - City of Pittsburgh Traffic Count: [https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh)
     - Used to evaluate high traffic neighborhoods
