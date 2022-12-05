@@ -1,5 +1,5 @@
 # Project Information:
-- Team name: The Traveling Team
+- Team name: The Traveling Team (Canvas Group 3)
 - Team members and their email addresses:
   - Michael Bartlett: [mab650@pitt.edu](mailto:mab650@pitt.edu) (notebook files: `mab650-notebook-transit-routes.ipynb` and `mab650-notebook-traffic-count.ipynb`)
   - Ethan Shilling: [ess102@pitt.edu](mailto:ess102@pitt.edu) (notebook file: `Bike Lane Availability.ipynb`)
